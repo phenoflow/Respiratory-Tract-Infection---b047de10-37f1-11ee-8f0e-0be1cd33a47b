@@ -1,0 +1,90 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/respiratory-tract-infection-confirmed---secondary.py
+inputModule3:
+  class: File
+  path: python/respiratory-tract-infection-culture---secondary.py
+inputModule4:
+  class: File
+  path: python/respiratory-tract-infection-specified---secondary.py
+inputModule5:
+  class: File
+  path: python/respiratory-tract-infection-lymph---secondary.py
+inputModule6:
+  class: File
+  path: python/respiratory-tract-infection-bronchu---secondary.py
+inputModule7:
+  class: File
+  path: python/respiratory-tract-infection-pleurisy---secondary.py
+inputModule8:
+  class: File
+  path: python/primary-respiratory-tract-infection---secondary.py
+inputModule9:
+  class: File
+  path: python/other-respiratory-tract-infection---secondary.py
+inputModule10:
+  class: File
+  path: python/respiratory-tract-infection-tuberculosis---secondary.py
+inputModule11:
+  class: File
+  path: python/histological-respiratory-tract-infection---secondary.py
+inputModule12:
+  class: File
+  path: python/respiratory-tract-infection-confirmation---secondary.py
+inputModule13:
+  class: File
+  path: python/respiratory-tract-infection-legionnaires---secondary.py
+inputModule14:
+  class: File
+  path: python/respiratory-tract-infection-pneumoniae---secondary.py
+inputModule15:
+  class: File
+  path: python/respiratory-tract-infection-metapneumovirus---secondary.py
+inputModule16:
+  class: File
+  path: python/respiratory-tract-infection-streptococcu---secondary.py
+inputModule17:
+  class: File
+  path: python/respiratory-tract-infection-influenzae---secondary.py
+inputModule18:
+  class: File
+  path: python/bacterial-respiratory-tract-infection---secondary.py
+inputModule19:
+  class: File
+  path: python/respiratory-tract-infection-mycoplasma---secondary.py
+inputModule20:
+  class: File
+  path: python/infectious-respiratory-tract-infection---secondary.py
+inputModule21:
+  class: File
+  path: python/respiratory-tract-infection-bronchiolitis---secondary.py
+inputModule22:
+  class: File
+  path: python/lower-respiratory-tract-infection---secondary.py
+inputModule23:
+  class: File
+  path: python/chronic-respiratory-tract-infection---secondary.py
+inputModule24:
+  class: File
+  path: python/pulmonary-respiratory-tract-infection---secondary.py
+inputModule25:
+  class: File
+  path: python/respiratory-tract-infection-mediastinum---secondary.py
+inputModule26:
+  class: File
+  path: python/respiratory-tract-infection---secondary.py
+inputModule27:
+  class: File
+  path: python/respiratory-tract-infection-abscess---secondary.py
+inputModule28:
+  class: File
+  path: python/respiratory-tract-infection-pyothorax---secondary.py
+inputModule29:
+  class: File
+  path: python/respiratory-tract-infection-fistula---secondary.py
+inputModule30:
+  class: File
+  path: python/output-cases.py
